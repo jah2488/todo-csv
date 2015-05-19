@@ -13,7 +13,7 @@ class Todo
 
       puts "---- TODO.rb ----"
 
-      view_todos 
+      view_todos
 
       puts
       puts "What would you like to do?"
