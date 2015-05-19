@@ -30,7 +30,7 @@
   - I must be able to run `ruby bin/todo.rb` and file must run without errors.
   - All features must work
   - Code must adhear to the ruby style guide.
-  ![todo.gif](todo.gif)
+  ![todo.gif](https://raw.githubusercontent.com/jah2488/todo-csv/master/todo.gif)
 
 ### Normal Mode
 
